@@ -1,2 +1,2 @@
 # connect-4-AI
-a round of connect-4
+A round of connect-4 against AI
